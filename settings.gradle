@@ -1,0 +1,2 @@
+rootProject.name='administrador_Prestamista'
+include ':app'
